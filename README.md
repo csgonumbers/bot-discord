@@ -2,7 +2,7 @@
 
 Discord bot that allows you to collect information from a player.
 
-- Stats
+- Player stats
 - Inventory value
 - CSGO rank
 - VAC banned
