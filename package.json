@@ -1,0 +1,23 @@
+{
+  "name": "csgonumbers-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/csgonumbers/bot-discord.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/csgonumbers/bot-discord/issues"
+  },
+  "homepage": "https://github.com/csgonumbers/bot-discord#readme",
+  "dependencies": {
+    "discord.js": "14.6.0",
+    "dotenv": "16.0.3"
+  }
+}
